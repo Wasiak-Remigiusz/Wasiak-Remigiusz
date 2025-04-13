@@ -35,9 +35,5 @@ I am passionate about optimizing business processes and automation. Skilled in d
 
 ### Get in Touch
 
-<p align="left"> <a href="https://www.linkedin.com/in/wasiak-remigiusz/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="mailto:wasiak.r.contact@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Gmail" />
-</a>
-
-</p>
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wasiak-remigiusz)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:wasiak.r.contact@gmail.com)
