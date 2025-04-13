@@ -2,7 +2,7 @@
 
 ## Business Process Engineer
 
-I am passionate about optimizing business processes and automation. Skilled in database management and backend development, with a strong abili ty to adapt to international work environments. Willing to travel internationally for business purposes.
+Business Process Engineer skilled in backend development and database management, with a strong ability to adapt to international work environments. Experienced in designing and developing business applications. Passionate about optimizing business processes and automation. Willing to travel for business purposes.
 
 - 🌍  I'm based in Poland
 - 🖥️  See my portfolio at [MyPortfolio](http://wasiakremigiusz.netlify.app)
