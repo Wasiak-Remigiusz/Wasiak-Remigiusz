@@ -35,7 +35,7 @@ Business Process Engineer skilled in backend development and database management
 
 ### Study Repository
 
-- 🟦 [C# Learning Repository](https://github.com/Wasiak-Remigiusz-Csharp) – My second GitHub repo focused on learning and practicing C#
+- 🟦 [C# Learning Repository](https://github.com/Wasiak-Remigiusz-Csharp) – My second GitHub repo focused on learning and practicing C# and .NET technologies
 
 
 ### Get in Touch
